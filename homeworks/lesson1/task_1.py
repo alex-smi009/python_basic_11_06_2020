@@ -1,4 +1,4 @@
-# "HM less1 task_1"
+# "HM less1 task1"
 str_1 = "my first programm on Python"  #текст в двойных кавычках, переменная строковая
 str_2 = 'My first symbol code'  #текст в одинарных кавычках, переменная строковая
 
