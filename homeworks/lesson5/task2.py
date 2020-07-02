@@ -11,7 +11,7 @@ print(f'Количество строк в файле - {len(content)}')
 my_file = open('file_2.txt', 'r')
 content = my_file.readlines()
 for i in range(len(content)):
-    print(f'Окличество символов {i + 1} - ой строки {len(content[i])}')
+    print(f'Количество символов {i + 1} - ой строки {len(content[i])}')
 my_file = open('file_2.txt', 'r')
 content = my_file.read()
 content = content.split()

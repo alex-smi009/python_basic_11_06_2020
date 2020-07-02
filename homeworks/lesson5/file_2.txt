@@ -1,1 +1,3 @@
-В первом примере выполняется открытие файла my_file.txt в режиме только чтения, который является режимом по умолчанию (можно не указывать). При этом указано только имя файла с расширением. Полный путь к файлу не указан. Интерпретатор Python будет искать данный файл в директории, где расположен файл-модуль, в котором мы выполняем открытие файла my_file.txt.
+I am the head of Data Science at British Transport Police, and one of our department tasks is to efficiently allocate staff, depending on the crime rates, which correlate to passenger flow. 
+As you understand, the passenger flow will undertake significant change as soon as the Government decides to cancel quarantine or stop some limitations. 
+The question naturally arises: when will the pandemic end and how to prepare for a return to normal life
