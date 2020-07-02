@@ -1,0 +1,4 @@
+Petrov 25000
+Ivanov 30000
+Borisov 18000
+Shukshin 17000
