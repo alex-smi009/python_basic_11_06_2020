@@ -21,12 +21,8 @@ class Matrix:
                 matr[i][j] = self.list_1[i][j] + self.list_2[i][j]
 
         return str('\n'.join(['\t'.join([str(j) for j in i]) for i in matr]))
-
-
     def __str__(self):
         return str('\n'.join(['\t'.join([str(j) for j in i]) for i in matr]))
-
-
 
 my_matrix = Matrix([[5, 18, 11],
                     [6, 17, 23],
